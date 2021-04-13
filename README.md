@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexander Andrade Cerlini</h1>
-<h3 align="center">A Web/Mobile Developer start programming</h3>
+<h3 align="center">A Web/Mobile Developer Jr</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cerlini" alt="Alex-Cerlini" /> </p>
 
 - 🔭 I’m currently working on Central do Técnico Web Project
