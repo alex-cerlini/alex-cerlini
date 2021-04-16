@@ -2,8 +2,6 @@
 <h3 align="center">A Web/Mobile Developer Jr</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cerlini" alt="Alex-Cerlini" /> </p>
 
-- 🔭 I’m currently working on Central do Técnico Web Project
-
 - 💬 I’m currently learning **HTML, CSS, JavaScript, NodeJS, Dart, Flutter, Git, GitHub**
 
 - 📫 How to reach me **alexcerlinii@gmail.com**
