@@ -7,7 +7,7 @@
 - 📫 How to reach me **alexcerlinii@gmail.com**
 
 ### Soft Skills:
-- Hardware technician in mobile devices with a YouTube Channel with more 1 million views.
+- Hardware technician in mobile devices with a YouTube Channel with more 1 million views. ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCc02duTpbSsJiH9JvuRyDQA?style=social)
 
 <p align="center" style="margin-top: 30px"><img src="https://github-readme-stats.vercel.app/api?username=alex-cerlini&show_icons=true" alt="Alex-Cerlini"/></p>
 
