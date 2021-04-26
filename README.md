@@ -10,11 +10,6 @@
 
 ---
 
-### Soft Skills:
-- Hardware technician in mobile devices with a YouTube Channel with more 1 million views. ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCc02duTpbSsJiH9JvuRyDQA?style=social)
-
----
-
 ### 🧰 Toolbox
 
 <p style="margin-top: 15px">
