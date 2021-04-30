@@ -2,11 +2,11 @@
 <h3 align="center">A Web/Mobile Developer Jr</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cerlini" alt="Alex-Cerlini" /> </p>
 
-
-
 - 📫 How to reach me **alexcerlinii@gmail.com**
 
 - 🚀 Open to Work
+
+- 💻 Graduating in Systems Analysis and Development (Ends in June / 2022)
 
 ---
 
@@ -14,29 +14,28 @@
 
 <p style="margin-top: 15px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/>
 
 </p>
-
 
 ---
 
 ### Soft Skills:
+
 - Hardware technician in mobile devices with a YouTube Channel with more 1 million views. ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCc02duTpbSsJiH9JvuRyDQA?style=social)
 
 ---
