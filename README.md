@@ -10,7 +10,7 @@
 
 - 🏡 Living in São Paulo
 
-- Portuguese native speaker
+- 🇧🇷 Portuguese native speaker
 
 ---
 
