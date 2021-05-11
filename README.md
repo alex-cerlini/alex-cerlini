@@ -10,6 +10,8 @@
 
 - Living in São Paulo
 
+- Portuguese native speaker
+
 ---
 
 ### 🧰 Toolbox
