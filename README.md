@@ -8,7 +8,7 @@
 
 - 💻 Graduating in Systems Analysis and Development (Ends in June / 2022)
 
-- Living in São Paulo
+- 🏡 Living in São Paulo
 
 - Portuguese native speaker
 
