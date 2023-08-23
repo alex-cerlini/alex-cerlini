@@ -2,7 +2,7 @@
 <h3 align="center">A Web/Mobile Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cerlini" alt="Alex-Cerlini" /> </p>
 
-- 📫 How to reach me **alexcerlinii@gmail.com**
+- 📫 How to reach me **contato@alexcerlini.com.br**
 
 - 🏡 Living in São Paulo
 
